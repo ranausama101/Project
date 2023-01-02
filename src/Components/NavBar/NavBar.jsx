@@ -5,6 +5,7 @@ const NavBar = () => {
     <div className='Nav'>
         <h1>List Of<span> Shopping</span></h1>
         <h2>Hello World</h2>
+        <h2>hello </h2>
     </div>
   )
 }
